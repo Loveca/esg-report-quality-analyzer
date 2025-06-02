@@ -16,8 +16,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone https://github.com/Loveca/esg-report-quality-analyzer.git
+cd esg-report-quality-analyzer
 ```
 
 2. 安装依赖：
